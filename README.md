@@ -36,5 +36,8 @@ This project requires the following dependencies:
 
 - Python 
 - Tkinter 
-- Pygame 
+- Pygame
+
+https://github.com/deepaktallapudi/TextEditor/assets/103422044/e7f7aaa4-004b-42f5-8eb2-192e60e31090
+
 
